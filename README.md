@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pesoxyz
 - 👀 I’m interested in Java, JS & Python 
 - 🌱 I’m currently learning Lua
-- 📫 How to reach me pesoxyz#2827
+- 📫 Discord -> pesoxyz#2827
 
 <!---
 pesoxyz/pesoxyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
