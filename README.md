@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @pesoxyz
-- 👀 I’m interested in Java, JS & Python 
-- 🌱 I’m currently learning Lua
+- 👋 Sebastian - 17
+- 👀 Java & JavaScript Developer
 - 📫 Discord -> pesoxyz#2827
 
 <!---
